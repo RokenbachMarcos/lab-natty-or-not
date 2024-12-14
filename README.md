@@ -13,6 +13,7 @@ Minha idéia foi buscar infomrações sobre duas paixoes, motos e rock, para iss
 
 ## 🚀 Resultados
 O e-book apresenta imagens satisfatorias e conteudo simples e dinamico, atendendo as expectativas ao utilizar inteligencia artificial com ferramente na criação
+[LINK PARA O E-BOOK AQUI]()
 
 ## 💭 Reflexão (Opcional)
 Como minha primeira experiencia com IAs fiquei muito satisfeito e surpreso com a dinamica e a qualidade que podemos conseguir utilizando-as.
